@@ -7,6 +7,6 @@
 5. https://github.com/kentcdodds/testing-react-apps
 5. https://github.com/kentcdodds/react-performance
 7. https://github.com/kentcdodds/react-suspense
-8-11. https://github.com/kentcdodds/bookshelf
+  8-11. https://github.com/kentcdodds/bookshelf
 
-### This repo just contains exercise folder and not the whole repo, it can't be setup or run on it own, replace exercise folder after setting up workshop material from above links.
+This repo just contains exercise folder and not the whole repo, it can't be setup or run on it own, replace exercise folder after setting up workshop material from above links.
