@@ -10,3 +10,5 @@
   8-11. https://github.com/kentcdodds/bookshelf
 
 This repo just contains exercise folder and not the whole repo, it can't be setup or run on it own, replace exercise folder after setting up workshop material from above links.
+
+This repo shows proff of my work and learnings.
